@@ -11,6 +11,6 @@ https://github.com/sheikhamir1/todolist/assets/142705849/29c040b1-bbaa-4cc4-bd8b
 
 
 screenshot
+![ScreenShot_20-11-2023_23_45_34](https://github.com/sheikhamir1/todolist/assets/142705849/05ad55be-0a20-487d-ade1-fbd229366fe0)
 
-![Uploading ScreenShot_20-11-2023_23_45_34.png…]()
 
